@@ -1,6 +1,6 @@
 {
   "name": "dora-plugin-upload",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "dora plugin for mocking file upload",
   "repository": {
     "type": "git",
