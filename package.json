@@ -4,9 +4,9 @@
   "description": "dora plugin for mocking file upload",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dora-js/dora-plugin-upload"
+    "url": "https://github.com/afc163/dora-plugin-upload"
   },
-  "homepage": "https://github.com/dora-js/dora-plugin-upload",
+  "homepage": "https://github.com/afc163/dora-plugin-upload",
   "author": "afc163 <afc163@gmail.com>",
   "license": "MIT",
   "main": "./lib",
